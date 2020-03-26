@@ -1,6 +1,6 @@
 # row-column-app
 
-> My hunky-dory Nuxt.js project
+> Create Dynamic Row and Adding Columns Using Nuxt JS Framework
 
 ## Build Setup
 
